@@ -3,7 +3,6 @@
 Although wind data is too large and it seems unreasonable, I decided not to change the data and work with the data as it is.
 
 Description:
-
 One of your colleagues have developed a quite profitable trading strategy. The strategy works by opening a position on the spot (day-ahead) market, and then closes the position on the intraday market. It’s however starting to decline in performance, so you’re tasked with coming up with a new strategy. 
 You have been given a file (data_for_exercise.csv), that contains the following columns. 
 data_input.columns = [ts, wind, solar, cons, spot, market] 
