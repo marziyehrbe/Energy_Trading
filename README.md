@@ -1,5 +1,6 @@
 # Energy_Trading
 
+
 One of your colleagues have developed a quite profitable trading strategy. The strategy works by opening a position on the spot (day-ahead) market,
 and then close the position on the intraday market. It’s however starting to decline in performance, so you’re tasked with coming up with a new strategy.
 You have been given a file (data_for_exercise.csv), that contains the following columns.
